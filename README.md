@@ -6,7 +6,7 @@ My goal is to become more familiar with the DHT module and set forth the level o
 
 - ## **Main Components:**
 **Arduino Uno**![Screenshot 2021-07-12 114904](https://user-images.githubusercontent.com/81925146/125317667-2f228600-e307-11eb-87db-64e619671c66.png) 
-**DHT11 Sensor(3 pins)**![Screenshot 2021-07-12 115039](https://user-images.githubusercontent.com/81925146/125317959-698c2300-e307-11eb-8289-1f3f05189281.png)
+**DHT11 Sensor(3pins)**![Screenshot 2021-07-12 115039](https://user-images.githubusercontent.com/81925146/125317959-698c2300-e307-11eb-8289-1f3f05189281.png)
 **1602 LCD Display**![Screenshot 2021-07-12 115320](https://user-images.githubusercontent.com/81925146/125318379-c982c980-e307-11eb-93a7-b4345e6a9ed1.png)
 
 
