@@ -15,7 +15,7 @@ My goal is to become more familiar with the DHT module and set forth the level o
 ![Temp and Humidity Pic](https://user-images.githubusercontent.com/81925146/125316500-2aa99d80-e306-11eb-97af-10f079aacad7.jpeg)
 
 - ## **Updated Project Visuals (2021-07-16):**
-- This is the updated visual of the project. Client can now detect optimal temperature within a room and flash signals if it becomes too hot or too cold. View Image Folder for a more detailed video.
+- This is the updated visual of the project. Client can now detect optimal temperature within a room and flash signals if it becomes too hot or too cold. View the 'Updated Visuals' folder in the Images area for a more detailed video.
 
 ![thumbnail_IMG_2984](https://user-images.githubusercontent.com/81925146/125983854-f5691458-fa19-42aa-93bd-7bc9187634d5.jpg)
 
