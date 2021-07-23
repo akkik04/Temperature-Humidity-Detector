@@ -2,7 +2,7 @@
 
 My goal is to become more familiar with the DHT module and set forth the level of temperature and humidity using the DHT sensor and a 1602-LCD screen. Along with the three main components listed below, a solderless breadboard, jumper wires, and male/female jumper wires are required.
 
-- To better understand the DHT11 sensor, I started by planning the project based on this documentation: https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
+- To better understand the DHT11 sensor, I started by planning the project based on this [documentation](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf).
 
 - ## **Main Components:**
 **Arduino Uno**![Screenshot 2021-07-12 114904](https://user-images.githubusercontent.com/81925146/125317667-2f228600-e307-11eb-87db-64e619671c66.png) 
